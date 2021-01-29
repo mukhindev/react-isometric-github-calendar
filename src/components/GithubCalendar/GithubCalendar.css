@@ -1,3 +1,7 @@
 .github-calendar {
-  
+  box-sizing: border-box;
+}
+
+.github-calendar__svg {
+  max-height: 100vh;
 }

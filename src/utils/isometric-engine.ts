@@ -1,10 +1,10 @@
-type coordinates3d = {
+export type coordinates3d = {
   x: number
   y: number
   z: number
 }
 
-type coordinates2d = {
+export type coordinates2d = {
   a: number
   b: number
 }
@@ -13,7 +13,7 @@ interface IIsometricEngine {
   convert: ({ x, y, z }: coordinates3d) => coordinates2d
 }
 
-export const isometricEngine: IIsometricEngine = {
+const isometricEngine: IIsometricEngine = {
   convert ({ x, y, z }) {
     return {
       a: (-3 * x) + (3 * y) + (0),
@@ -21,3 +21,5 @@ export const isometricEngine: IIsometricEngine = {
     }
   }
 }
+
+export default isometricEngine;

@@ -17,8 +17,9 @@ function App() {
   }, [fecthCalendarData])
 
   return (
-    <div className="App">
-      <GitHubCalendar 
+    <div className="app">
+      <GitHubCalendar
+        className="app__github-calendar"
         totalContributions={ totalContributions }
         months={ months }
         weeks={ weeks }
