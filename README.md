@@ -2,10 +2,6 @@
 
 <img src="./doc/assets/calendar.png" alt="Isometric Github Calendar" width="640px">
 
-## Demo
-
-https://mukhindev.github.io/react-isometric-github-calendar/
-
 ## What's it?
 
 Isometric Github Calendar with SVG and React.
