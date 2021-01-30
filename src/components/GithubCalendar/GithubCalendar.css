@@ -4,4 +4,5 @@
 
 .github-calendar__svg {
   max-height: 100vh;
+  width: 100%;
 }
