@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-isometric-github-calendar/static/css/main.342d4041.chunk.css",
+    "main.css": "/react-isometric-github-calendar/static/css/main.9c3ff43f.chunk.css",
     "main.js": "/react-isometric-github-calendar/static/js/main.670f6828.chunk.js",
     "main.js.map": "/react-isometric-github-calendar/static/js/main.670f6828.chunk.js.map",
     "runtime-main.js": "/react-isometric-github-calendar/static/js/runtime-main.7e4f15a5.js",
@@ -10,13 +10,13 @@
     "static/js/3.b30f03ae.chunk.js": "/react-isometric-github-calendar/static/js/3.b30f03ae.chunk.js",
     "static/js/3.b30f03ae.chunk.js.map": "/react-isometric-github-calendar/static/js/3.b30f03ae.chunk.js.map",
     "index.html": "/react-isometric-github-calendar/index.html",
-    "static/css/main.342d4041.chunk.css.map": "/react-isometric-github-calendar/static/css/main.342d4041.chunk.css.map",
+    "static/css/main.9c3ff43f.chunk.css.map": "/react-isometric-github-calendar/static/css/main.9c3ff43f.chunk.css.map",
     "static/js/2.ecb84a7d.chunk.js.LICENSE.txt": "/react-isometric-github-calendar/static/js/2.ecb84a7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7e4f15a5.js",
     "static/js/2.ecb84a7d.chunk.js",
-    "static/css/main.342d4041.chunk.css",
+    "static/css/main.9c3ff43f.chunk.css",
     "static/js/main.670f6828.chunk.js"
   ]
 }
